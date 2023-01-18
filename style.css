@@ -1,0 +1,58 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: blueviolet;
+    
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+   border: 10px black solid;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.container2{
+    border: 10px black solid;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.scp{
+    border: 20px aqua solid;
+    
+}
+
+.anti{
+    border: 20px aqua solid;
+}
+
+.autor{
+    border: 20px aqua solid;
+}
+
+
+.fa{
+    border: 20px aqua solid;
+}
+
+.sa{
+    border: 20px aqua solid;
+}
+
+.rei{
+    border: 20px aqua solid;
+}
+
